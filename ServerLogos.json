@@ -1,17 +1,17 @@
 {
 	"Images": [
     	{
-        	"URL": "https://drive.google.com/uc?id=1e4UaLhWCjQkOv9jPtexdFuFNPPkwyCXA",
+        	"URL": "https://drive.google.com/file/d/1ALNk9-FC5UN9ot3gpc5jSNrs37IkzXsI/view?usp=drive_link",
         	"Pos": "MidMid",
-        	"Persist": true,
+        	"Persist": false,
         	"FadeTime": 10
     	},
     	{
 
-        	"URL": "https://drive.google.com/uc?id=1vZDPI-5mSH53npyq2JKkWy42x25ut842",
+        	"URL": "https://drive.google.com/file/d/1ALNk9-FC5UN9ot3gpc5jSNrs37IkzXsI/view?usp=drive_link",
         	"Pos": "BottomLeft",
-        	"Persist": true,
-        	"FadeTime": 5
+        	"Persist": false,
+        	"FadeTime": 30
     	},
     	{
 
