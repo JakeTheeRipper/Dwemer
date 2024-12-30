@@ -1,18 +1,10 @@
 {
 	"Images": [
     	{
-        	"URL": "https://drive.google.com/file/d/1ALNk9-FC5UN9ot3gpc5jSNrs37IkzXsI/view",
-        	"Pos": "MidMid",
-        	"Persist": false,
-        	"FadeTime": 10
-    	},
-    	{
-
-        	"URL": "https://drive.google.com/file/d/1ALNk9-FC5UN9ot3gpc5jSNrs37IkzXsI/view",
+        	"URL": "https://drive.google.com/file/d/1ALNk9-FC5UN9ot3gpc5jSNrs37IkzXsI",
         	"Pos": "BottomLeft",
         	"Persist": false,
         	"FadeTime": 30
-    	},
-    	{
-
+    	}
+	]
 }
